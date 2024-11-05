@@ -1,0 +1,9 @@
+[package]
+name = "msaccess-learn"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.92"
+csv = "1.3.0"
+odbc-api = "9.0.0"
